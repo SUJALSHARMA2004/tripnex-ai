@@ -2,7 +2,7 @@ import axios from "axios";
 
 const API = axios.create({
 
-    baseURL: "https://tripnex-ai.onrender.com/api/travel",
+    baseURL: "https://tripnex-ai-sxdd.onrender.com",
 
 });
 
